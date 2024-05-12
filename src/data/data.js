@@ -27,7 +27,7 @@ export const data = [
   {
     id: 4,
     img: './images/Screenshot 2024-02-29 215536.png',
-    title: "Sanke Game",
+    title: "Snake Game",
     desc: "",
     link: "https://sachin191101.github.io/SnakeGame/",
     git: "https://github.com/Sachin191101/SnakeGame.git",
