@@ -44,7 +44,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Experienced full stack web developer with a passion for creating responsive, user-friendly web applications. Proficient in both front-end and back-end technologies including HTML, CSS, JavaScript,  React.js, Express.js, Next.js , MongoDB and Node.js. Skilled in building scalable and efficient web solutions, with a keen eye for design and a commitment to delivering high-quality results. Constantly staying updated on industry trends and technologies to ensure the delivery of cutting-edge solutions. Excited to collaborate with dynamic teams and tackle new challenges in the ever-evolving world of web development.
+              Full stack web developer with a strong skill set across various technologies. Focus on user experience, scalability, and staying updated on industry trends demonstrates a commitment to delivering top-notch solutions. Enthusiasm for collaboration and tackling challenges makes you a valuable asset to any team.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
